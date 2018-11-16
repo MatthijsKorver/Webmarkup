@@ -1,0 +1,3 @@
+student name : Matthijs Korver
+student number : 633674
+student class : Inf1sc
